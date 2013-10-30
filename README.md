@@ -12,3 +12,6 @@ Lab Session: Tuesday 6pm - 8pm
 the Daftpunktocat-Thomas
 
 ![alt tag](http://octodex.github.com/images/snowoctocat.png)
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
